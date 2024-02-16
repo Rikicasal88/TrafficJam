@@ -1,4 +1,4 @@
-Hello Marmalade Studio, this is the Unity programming test README.
+Hello, this is the Unity programming test README.
 In here I am writing all the info you will need to know about the project, the how and why of some of the systems and the duration of the developemnt.
 
 I am using Unity 2020.3.25f1
